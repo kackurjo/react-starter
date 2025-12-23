@@ -18,6 +18,7 @@ Deploy this repo directly to apply.build:
 [Deploy with apply.build](https://apply.build/)
 
 > No YAML. No infra setup. Just connect GitHub and deploy.
+> Sign in, connect github, create app and watch the magic happen.
 
 ---
 
