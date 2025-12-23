@@ -15,7 +15,7 @@ Perfect for dashboards, landing pages, and frontend apps backed by APIs.
 
 Deploy this repo directly to apply.build:
 
-[![Deploy with apply.build]](https://apply.build/)
+[Deploy with apply.build](https://apply.build/)
 
 > No YAML. No infra setup. Just connect GitHub and deploy.
 
