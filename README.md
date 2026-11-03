@@ -7,7 +7,7 @@ A fast, modern **React + Vite** starter project, ready to deploy directly from G
 - 🚀 One-click deploy
 - ☁️ Runs on Kubernetes
 
-Perfect for dashboards, landing sites and frontend apps backed by APIs.
+Perfect for dashboards, landing pages and frontend apps backed by APIs.
 
 ---
 
